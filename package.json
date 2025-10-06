@@ -1,10 +1,5 @@
 {
- HEAD
-  "homepage": "https://ShaikShamirAhmad.github.io/my-react-app",
-
-  "homepage": "https://myusername.github.io/my-app",
- 4b2172659de4f5d586f1dd7f660a5decc1708d5f
-  "name": "demo_project",
+  "name": "text_utils",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -19,11 +14,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
- HEAD
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-
- 4b2172659de4f5d586f1dd7f660a5decc1708d5f
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -46,11 +38,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
- HEAD
-  },
-  "devDependencies": {
-    "gh-pages": "^6.3.0"
-
- 4b2172659de4f5d586f1dd7f660a5decc1708d5f
   }
 }
